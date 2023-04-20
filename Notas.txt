@@ -1,0 +1,13 @@
+Notas
+
+---- Proyecto modificado ----
+
+- Eliminamos Gulp.js
+- Para verificar los cambios realizados en el proyecto modificado y ya que todo el repositorio usa Git, se puede copiar el contenido del proyecto sin modificar al proyecto modificado
+
+---- Composer ----
+
+- Agregamos ".gitignore"
+- Eliminamos archivo "composer.lock"
+- Eliminamos carpeta "vendor"
+- Ejecutamos "composer install"
